@@ -1,10 +1,6 @@
 # Flipkart_Scrapper
 
 
-# PythonCloudLibrary
-CloudLibrary
-
-
 ## To create conda environment
 
 ```
@@ -27,5 +23,5 @@ pip install -r requirements.txt
 
 ### to create requirements.txt
 ```buildoutcfg
-pip freeze>requirements.txt
+pip freeze > requirements.txt
 ```
